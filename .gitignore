@@ -5,3 +5,7 @@ obj
 # mstest test results
 TestResults
 node_modules
+
+*.DS_Store
+*.metadata
+*.metadata/*
